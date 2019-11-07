@@ -49,12 +49,6 @@ body, html {
     color: white;
     font-size: 2rem;
     text-shadow: 0px 0px 20px rgb(0, 0, 0);
-
-    /* position: absolute;
-    left: 50%;
-    top: 60%;
-    text-align: center;
-    transform: translate3d(-50%, -50%, 0); */
 }
 
 #main ul {
@@ -138,7 +132,6 @@ page {
 @media only screen and (min-device-width: 768px){
   #page1 p {
     font-size: 2vw;
-    /* top: 60%; */
   }
   #main ul {
     font-size: 2rem;
